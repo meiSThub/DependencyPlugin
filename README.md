@@ -1,0 +1,2 @@
+# DependencyPlugin
+扫描工程中用到的所有依赖库，并上传依赖信息到指定的git工程
